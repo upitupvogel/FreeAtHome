@@ -1,0 +1,12 @@
+{
+    "id": "{0E482528-9446-D445-7322-FA8D8CBBD4CF}",
+    "name": "FAHDiscovery",
+    "type": 5,
+    "vendor": "Busch Jäger",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "FAH",
+    "url": ""
+}
